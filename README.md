@@ -1,16 +1,28 @@
-# Trilha HTML - Dio.me
-## Módulo 01 - Primeiros passos com HTML
+# 🌐 Módulo 1 - Primeiros Passos com HTML
 
-A ideia deste desafio é elaborar um website, utilizando uma estrutura bem básica, utilizando tags aprendidas durante as aulas práticas até então. 
+## 📝 Descrição do Desafio
+O objetivo deste desafio foi criar um **website básico** utilizando as tags de HTML aprendidas nas primeiras aulas.  
+O foco principal é **entender a estrutura de um documento HTML**, criar conteúdos organizados e aplicar formatações usando diferentes tags.  
 
-Utilizar todas as tags explicadas nas aulas: `<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`
+No projeto foram aplicadas as seguintes tags:  
+`<h1>` até `<h6>`, `<p>`, `<mark>`, `<small>`, `<i>`, `<u>`, `<strong>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<hr>`, `<sub>`, `<sup>`, `<blockquote>`.  
+Além disso, foram incluídas algumas tags extras para estudo: `<font>`, `<del>`, `<abbr>`.
 
-Utilizar novas tags sugeridas: `<font>`, `<del>`, `<p>`, `<abbr>` (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto)
+---
 
-Importante dizer que, estas tags te "seguirão" durante TODO O CURSO, por isso, é bom que esteja bem aprendidas para aproveitarem ao máximo as próximas aulas.
+## 🎯 Objetivos
+- Praticar a **estrutura básica do HTML**.  
+- Entender a diferença entre **clientes (frontend)** e **servidores (backend)**.  
+- Aprender a criar **listas ordenadas e não ordenadas**.  
+- Aplicar **formatações de texto** como negrito, itálico, sublinhado e marcações de destaque.  
+- Criar links que abram em **nova aba** e usar **âncoras** para navegação interna.  
+- Adicionar **referências externas** para estudo contínuo.  
 
-Este desafio vai fazer com que tenha dúvidas, o que é ótimo! Aos poucos você vai evoluindo na sua jornada.
+---
 
-Após concluído este desafio! Siga para o <strong>Módulo II - Conceitos Básicos.</strong>
+## 🛠️ Tecnologias Utilizadas
+- HTML5
+- Tags semânticas e de formatação  
+- Âncoras e links externos  
 
-Nos vemos lá!
+
